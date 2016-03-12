@@ -1,0 +1,7 @@
+gom 'github.com/go-kit/kit/endpoint'
+gom 'github.com/go-kit/kit/log'
+gom 'github.com/go-kit/kit/transport/http'
+gom 'github.com/texttheater/golang-levenshtein/levenshtein'
+gom 'golang.org/x/net/context'
+gom 'gopkg.in/logfmt.v0'
+gom 'gopkg.in/stack.v1'
