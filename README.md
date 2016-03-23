@@ -4,7 +4,7 @@ A very simple Go-Kit based microservice to determine string similarity.
 
 ## Example
 
-The service should currently be up at http://dockerer-152911.nitrousapp.com:8080.
+The service _may_ currently be up at http://dockerer-152911.nitrousapp.com:8080.
 
 It expects a POST request to `/` with the following as a JSON encoded body:
 
@@ -34,7 +34,7 @@ Server: openresty/1.7.10.1
 
 Current algorithms implemented:
 
-- [Levenshtein distance](http://dockerer-152911.nitrousapp.com:8080)
+- [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 
 Algorithms that might be worth implementing:
 
